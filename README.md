@@ -1,4 +1,4 @@
-# GitHub-Tutorial-Youtube
+# GitHub-Tutorial
 
 
 Level 1: Github Tutorial For Beginners - Github Basics for Mac or Windows & Source Control Basics
